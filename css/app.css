@@ -209,3 +209,33 @@ td{
 .hide{
     display: none;
 }/*to hide the modal*/
+
+
+/*media query for smaller screen responsiveness*/
+
+@media screen and (min-width: 381px) and (max-width: 520px) {
+    .deck {
+        width: 380px;
+        min-height: 400px;
+        padding: 24px;
+    }
+    
+    .deck .card {
+        height: 70px;
+        width: 70px;
+    }   
+}
+
+
+@media screen and (max-width: 400px) {
+    .deck {
+        width: 310px;
+        min-height: 330px;
+        padding: 18px;
+    }
+    
+    .deck .card {
+        height: 58px;
+        width: 58px;
+    }
+}
