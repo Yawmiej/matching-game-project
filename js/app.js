@@ -196,14 +196,15 @@ deck.addEventListener('click', function(evt) {
 //All reset functions for reset buttons
 function resetClock() {
     stopClock();
-    clockOff = true;
     time = 0;
+    clockOff = true;
     displayTime();
 }
 
 
 function resetMoves() {
     moveCount = 0;
+    openedCards = [];
     getMoves();
 }
 
