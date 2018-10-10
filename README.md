@@ -23,7 +23,7 @@ This project was part of the Udacity Front End Developer Nanodegree. It was crea
 
 ## Link
 
-This project is available at yawmiej/github.io/matching-game-project
+This project is available at [here](https://yawmiej/github.io/matching-game-project)
 
 ## Contributing
 
