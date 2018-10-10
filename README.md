@@ -8,9 +8,8 @@
 
 ## About
 
-The Matching game is a memory test game, it test a users ability to remember icons and positions. The concept of game is to match two similar cards, when all cards are matched,
- the game is won
-This project was part of the Udacity Front End Developer Nanodegree. It was created with HTML, CSS anf Vanilla js.
+The Matching game is a memory test game, it test a users ability to remember icons and positions. The concept of game is to match two similar cards, when all cards are matched, the game is won
+This project was part of the Udacity Front End Developer Nanodegree. It was created with HTML, CSS and Vanilla js, card icons with font-awesome and text fonts from google fonts.
 
 ## Instruction
 
